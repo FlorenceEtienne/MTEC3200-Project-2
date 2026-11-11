@@ -1,2 +1,21 @@
-# MTEC3200-Project-2
-For an app that makes it easier to share or gather information.
+# Tap And Go
+
+[One sentence describing what the project does and who it is for.]
+
+Either when discussing, scrolling, or traveling, share or gather news/information about your interests. 
+
+**Live link:** [Vercel URL, Expo link, or demo video]
+
+## Team
+
+- [Name]
+  
+  Floren Etienne
+
+- [Name, if working in a pair]
+
+## Problem
+
+[Your problem statement. Who experiences the problem, what happens, and why it matters. Do not name a solution.]
+
+Those who don't have the time to look up events for their learning institute, worksite, or anywhere.

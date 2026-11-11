@@ -18,4 +18,4 @@ Either when discussing, scrolling, or traveling, share or gather news/informatio
 
 [Your problem statement. Who experiences the problem, what happens, and why it matters. Do not name a solution.]
 
-Those who don't have the time to look up events for their learning institute, worksite, or anywhere.
+Those who don't have the time to look up events from their learning institute, worksite, or anywhere.

@@ -8,9 +8,9 @@ Either when discussing, scrolling, or traveling, share or gather news/informatio
 
 ## Team
 
-- [Name]
+[Name]
   
-  Floren Etienne
+Floren Etienne
 
 ## Problem
 

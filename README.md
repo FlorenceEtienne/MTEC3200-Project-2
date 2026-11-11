@@ -12,8 +12,6 @@ Either when discussing, scrolling, or traveling, share or gather news/informatio
   
   Floren Etienne
 
-- [Name, if working in a pair]
-
 ## Problem
 
 [Your problem statement. Who experiences the problem, what happens, and why it matters. Do not name a solution.]
